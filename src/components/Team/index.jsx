@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 import firstImage from '../../assets/team/Picture.svg'
 
 function Team() {

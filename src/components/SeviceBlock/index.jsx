@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 import arrowImage from '../../assets/serviceblock/Arrow 1.svg'
 import firstCartImage from '../../assets/serviceblock/tokyo-magnifier-web-search-with-elements 2.svg'
 import secondCartImage from '../../assets/serviceblock/tokyo-selecting-a-value-in-the-browser-window 1.png'

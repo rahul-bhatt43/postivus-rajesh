@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 import amazoneImage from '../../assets/brand/Company logo.svg'
 import dribbleImage from '../../assets/brand/Vector (16).svg'
 import companyLogo1 from '../../assets/brand/Company logo (1).svg'

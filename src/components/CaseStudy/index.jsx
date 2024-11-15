@@ -1,5 +1,5 @@
 
-import React from 'react';
+// import React from 'react';
 import arrowImage from '../../assets/caseStudy/Arrow 1.svg';
 import lineImage from '../../assets/caseStudy/Line 4.svg';
 

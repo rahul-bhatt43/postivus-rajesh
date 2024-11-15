@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import logo from '../../assets/navaimg/Vector (13).svg'
 import logoName from '../../assets/navaimg/Positivus.svg'
 

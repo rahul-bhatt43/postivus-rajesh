@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 import Image from '../../assets/ctaBlock/illustration.svg'
 
 function CtaBlock() {

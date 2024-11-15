@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import logo from "../../assets/footer/Vector (17).svg";
 
 function Footer() {
@@ -32,13 +32,13 @@ function Footer() {
 
             <div className="hidden order-100  lg:w-[130px] h[30px] lg:flex justify-between">
               <div className="flex justify-center items-center w-[30px] h-[30px] rounded-full bg-[#ffff]">
-                <i class="fa-brands fa-linkedin-in"></i>
+                <i className="fa-brands fa-linkedin-in"></i>
               </div>
               <div className="flex justify-center items-center w-[30px] h-[30px] rounded-full bg-[#ffff]">
-                <i class="fa-brands fa-facebook-f"></i>
+                <i className="fa-brands fa-facebook-f"></i>
               </div>
               <div className=" flex justify-center items-center w-[30px] h-[30px] rounded-full bg-[#ffff]">
-                <i class="fa-brands fa-twitter"></i>
+                <i className="fa-brands fa-twitter"></i>
               </div>
             </div>
           </div>
@@ -78,13 +78,13 @@ function Footer() {
 
             <div className=" lg:hidden  w-[50vw] mx-auto h[30px] flex justify-between">
               <div className="flex justify-center items-center w-[30px] h-[30px] rounded-full bg-[#ffff]">
-                <i class="fa-brands fa-linkedin-in"></i>
+                <i className="fa-brands fa-linkedin-in"></i>
               </div>
               <div className="flex justify-center items-center w-[30px] h-[30px] rounded-full bg-[#ffff]">
-                <i class="fa-brands fa-facebook-f"></i>
+                <i className="fa-brands fa-facebook-f"></i>
               </div>
               <div className=" flex justify-center items-center w-[30px] h-[30px] rounded-full bg-[#ffff]">
-                <i class="fa-brands fa-twitter"></i>
+                <i className="fa-brands fa-twitter"></i>
               </div>
             </div>
           </div>
@@ -93,7 +93,7 @@ function Footer() {
         <div className="w-[80vw]   lg:w-[1120px] lg:h-[78px] border-t flex ">
           <div className="text-[#fff] flex flex-col lg:flex-row mt-5 lg:mt-0
            items-center lg:items-start gap-x-7 gap-y-8 self-end">
-            <p>© 2023 Positivus. All Rights Reserved.</p>
+            <p>© 2024 Positivus. All Rights Reserved.</p>
             <p>Privacy Polciy</p>
           </div>
         </div>
