@@ -1,5 +1,5 @@
 // import React from 'react'
-import Image from '../../assets/ctaBlock/illustration.svg'
+import Image from '../../assets/ctaBlock/Illustration.svg'
 
 function CtaBlock() {
   return (
