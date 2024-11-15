@@ -8,7 +8,7 @@ import CtaBlock from "../../CtaBlock";
 import CaseStudy from "../../CaseStudy";
 import ProcessBlock from "../../ProcessBlock";
 import Team from "../../Team";
-import ContactUs from "../../ContactUs";
+import ContactUs from "../../Contactus";
 import Footer from "../../Footer";
 
 
